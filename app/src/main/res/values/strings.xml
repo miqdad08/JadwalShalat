@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Belajar SharedPrefence</string>
+    <string name="login">Login</string>
+    <string name="username">User name</string>
+    <string name="password">Password</string>
+    <string name="forgot">Forgot Password ? </string>
+    <string name="dontHaveAccount">Dont Have Account ? </string>
+    <string name="register">Register</string>
+    <string name="verifyPassword">Verify Password</string>
+    <string name="pria">Pria</string>
+    <string name="wanita">Wanita</string>
+    <string name="email">Email</string>
+    <string name="aggre">Dengan Ini Saya Menyutujui Kebijakan Dan Privasi</string>
+    <string name="succesRegister">Berhasil Mendaftar</string>
+    <string name="cautionSucces">Yeyyy, Kamu Sekarang Memiliki Account Silahkan Login</string>
+    <string name="accountNotRegist">Account Tidak Terdaftar</string>
+    <string name="pleaseRegist">Silahkan Register Terlebih Dahulu</string>
+    <string name="logout">Logout</string>
+    <string name="settring">Setting</string>
+    <string name="setting">Setting</string>
+    <string name="nama">Nama User</string>
+    <string name="namaUser">Nama</string>
+    <string name="isyaa">Isya</string>
+    <string name="descriptionImage">Dekripsi image</string>
+    <string name="asar">Ashar</string>
+    <string name="Dhuhr">Dhuhr</string>
+    <string name="prayScedule">Praying Time</string>
+    <string name="Fajr">Fajr</string>
+    <string name="Sunrise">Sunsrise</string>
+    <string name="magrib">Magrib</string>
+    <string name="Morning">Selamat pagi</string>
+    <string name="badConection">You Dont Have A Connection</string>
+    <string name="adzan">Adzan</string>
+</resources>
